@@ -1,0 +1,23 @@
+div[class^="el-"] {
+	font-family: Arial; 
+}
+
+[class*="atr"] {
+	color: red;
+}
+
+label[for] {
+	font-weight: 600; 
+}
+
+[id$="special"] {
+	font-size: 40px;
+}
+
+[lang^="en"][lang*="-"] {
+	color:green;
+}
+
+button[value=""] {
+	border: 2px solid black; 
+}

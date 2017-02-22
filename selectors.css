@@ -1,0 +1,15 @@
+ol:last-of-type li:last-child {
+	color: red;
+}
+
+li:first-child {
+	color: green;
+}
+
+ol:first-of-type li:first-child {
+	font-family: cursive;
+}
+
+h3:first-of-type {
+	font-size: 50px; 
+}
