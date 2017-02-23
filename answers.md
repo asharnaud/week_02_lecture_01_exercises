@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Answers to Week 2 Exercises</title>
+	<title>Answers to Week Two Exercises</title>
 </head>
 <body>
-<h1>Answers:</h1>
+	<h1>Answers:</h1>
 	<ol>
 		<li>c) specificity</li>
-		<li>a) External stylesheet, Internal styles, Inline styles, !important</li>
+		<li>a) External stylesheet, Internal styles, Inline styles, !important
+		or c) Internal styles, External stylesheet, Inline styles, !important (depending on the link placement)</li>
 		<li>a) Property and d) Value</li>
 		<li>b) padding and d) margin</li>
 		<li>c){}</li>
