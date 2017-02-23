@@ -8,3 +8,6 @@
         display: inline-block
         height: 100px; 
     }
+    .special {
+    	background-color: red; 
+    }
