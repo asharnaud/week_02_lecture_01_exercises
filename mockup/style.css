@@ -1,0 +1,19 @@
+    div{
+        background: #eee;
+        margin: 0 auto;
+        padding: 20px;
+        width: 510px;
+    }
+
+    h1{
+      font-family: serif;
+      letter-spacing: 15px;
+      text-align: center; 
+      text-transform: uppercase;
+    }
+
+    p{
+        font-family: serif;
+        font-weight:500;
+        line-height: 35px;
+    }
